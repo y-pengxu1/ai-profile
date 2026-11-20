@@ -5,6 +5,7 @@
 ## 必读
 
 - [PROFILE.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/PROFILE.md): 唯一入口。身份、业务模式、回答方式、禁区、已知的坑
+- [rules.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/details/rules.md): 回答规则硬性条款（9 条，每条都是验收标准）。**优先级最高**
 
 ## 按需
 

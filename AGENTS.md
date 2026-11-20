@@ -3,10 +3,11 @@
 ## 先读什么
 
 1. 必读 `PROFILE.md` —— 唯一入口，读完就能开工
-2. 涉及具体项目、进度 → `details/projects.md`
-3. 涉及软件、硬件、故障 → `details/toolchain.md`
-4. 涉及写文案、话术、报价措辞 → `details/style.md`
-5. 不知道读哪篇 → 先看 `llms.txt`
+2. 必读 `details/rules.md` —— 回答规则的硬性条款，每条都是验收标准
+3. 涉及具体项目、进度 → `details/projects.md`
+4. 涉及软件、硬件、故障 → `details/toolchain.md`
+5. 涉及写文案、话术、报价措辞 → `details/style.md`
+6. 不知道读哪篇 → 先看 `llms.txt`
 
 ## 必须遵守
 
