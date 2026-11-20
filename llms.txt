@@ -4,16 +4,17 @@
 
 ## 必读
 
-- [PROFILE.md](https://raw.githubusercontent.com/你的GitHub用户名/ai-profile/main/PROFILE.md): 唯一入口。身份、业务模式、回答方式、禁区、已知的坑
+- [PROFILE.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/PROFILE.md): 唯一入口。身份、业务模式、回答方式、禁区、已知的坑
 
 ## 按需
 
-- [projects.md](https://raw.githubusercontent.com/你的GitHub用户名/ai-profile/main/details/projects.md): 当前在做的项目、进度、卡在哪
-- [toolchain.md](https://raw.githubusercontent.com/你的GitHub用户名/ai-profile/main/details/toolchain.md): 软件版本、插件、硬件配置、故障台账
-- [style.md](https://raw.githubusercontent.com/你的GitHub用户名/ai-profile/main/details/style.md): 表达偏好、禁用词、报价与写文案的口径
+- [projects.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/details/projects.md): 当前在做的项目、进度、卡在哪
+- [toolchain.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/details/toolchain.md): 软件版本、插件、硬件配置、故障台账
+- [style.md](https://raw.githubusercontent.com/y-pengxu1/ai-profile/main/details/style.md): 表达偏好、禁用词、报价与写文案的口径
 
 ## 说明
 
 - `AGENTS.md` 是给支持 AI 指令文件的工具看的（Codex、Copilot、Cursor 等）
 - `CLAUDE.md` 只做一行转发，指向 `AGENTS.md`
 - `README.md` 给人看，AI 可跳过
+
